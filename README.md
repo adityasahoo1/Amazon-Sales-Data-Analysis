@@ -9,6 +9,5 @@
 
 ## Tools Used
 
-- Jupyter Notebook
 - Excel
 - Power BI
